@@ -5,7 +5,5 @@
 - 🤿 **Learning:** Cloud
 - 🎮**Interests:** League Of Legends playing,mhh I'm researching rocket systems these days
 
-#### Which techs I use?
-
 <br/>
 <br/>
