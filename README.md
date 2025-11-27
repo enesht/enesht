@@ -1,9 +1,4 @@
-
-
-- 👀 __**Name**__: Enes
-- 🖥️ **Who?**: I'm a Turkish high school student, loves to codes.
-- 🤿 **Learning:** Cloud,Python Etc.
-- 🎮🚀**Interests:** League Of Legends playing,mhh I'm researching rocket systems these days
+**WhoAmI?**: hello welcome my profile; i use github as a place to keep my personal notes(public notes not diary. :4 ) and projects.
 
 <br/>
 <br/>
